@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:title="home" android:id="@+id/homefr" android:icon="@drawable/home"
+        app:showAsAction="ifRoom"/>
+    <item android:title="search" android:id="@+id/search" android:icon="@drawable/search"
+        app:showAsAction="ifRoom"/>
+    <item android:title="saved" android:id="@+id/saved" android:icon="@drawable/save"
+        app:showAsAction="ifRoom"/>
+
+
+</menu>
